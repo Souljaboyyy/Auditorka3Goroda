@@ -1,0 +1,4 @@
+﻿  main.c
+d:\audi3goroda\audi3goroda\main.c(15): warning C4013: 'getche' undefined; assuming extern returning int
+  audi3Goroda.vcxproj -> D:\audi3Goroda\Debug\audi3Goroda.exe
+  audi3Goroda.vcxproj -> D:\audi3Goroda\Debug\audi3Goroda.pdb (Partial PDB)
